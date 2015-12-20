@@ -1,6 +1,6 @@
 # dt-review-bot
 
-BOT for DefinitelyTyped
+BOT for DefinitelyTyped.
 
 ## How to contribute
 
@@ -8,8 +8,7 @@ If you want to improve review comment, please send pull request to [dt-review-to
 
 ## How to deploy
 
-This bot uses GoogleAppEngine ManagedVM.
-but this bot is not depeneds on appengine API. 
+This bot uses GoogleAppEngine ManagedVM, but this bot doesn't depend on the appengine API. 
 
 ```
 $ npm run deploy
@@ -17,7 +16,7 @@ $ npm run deploy
 
 ## How to setup
 
-This bot needs personal access token. https://github.com/settings/tokens
+This bot needs a personal access token. https://github.com/settings/tokens
 
 ```
 $ ls token.json
